@@ -1,0 +1,537 @@
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 0
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 1
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 2
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 3
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 4
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 5
+"../../../Engine/Content/BasicShapes/Cube.uasset" 6
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 7
+"../../../Engine/Content/BufferVisualization/AmbientOcclusion.uasset" 8
+"../../../Engine/Content/BufferVisualization/BaseColor.uasset" 9
+"../../../Engine/Content/BufferVisualization/CustomDepth.uasset" 10
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 11
+"../../../Engine/Content/BufferVisualization/CustomDepthWorldUnits.uasset" 12
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 13
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 14
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 15
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 16
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 17
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 18
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 19
+"../../../Engine/Content/BufferVisualization/CustomStencil.uasset" 20
+"../../../Engine/Content/BufferVisualization/FinalImage.uasset" 21
+"../../../Engine/Content/BufferVisualization/LightingModel.uasset" 22
+"../../../Engine/Content/BufferVisualization/MaterialAO.uasset" 23
+"../../../Engine/Content/BufferVisualization/Metallic.uasset" 24
+"../../../Engine/Content/BufferVisualization/Opacity.uasset" 25
+"../../../Engine/Content/BufferVisualization/PostTonemapHDRColor.uasset" 26
+"../../../Engine/Content/BufferVisualization/PreTonemapHDRColor.uasset" 27
+"../../../Engine/Content/BufferVisualization/Roughness.uasset" 28
+"../../../Engine/Content/BufferVisualization/SceneColor.uasset" 29
+"../../../Engine/Content/BufferVisualization/SceneDepth.uasset" 30
+"../../../Engine/Content/BufferVisualization/SceneDepthWorldUnits.uasset" 31
+"../../../Engine/Content/BufferVisualization/SeparateTranslucencyA.uasset" 32
+"../../../Engine/Content/BufferVisualization/SeparateTranslucencyRGB.uasset" 33
+"../../../Engine/Content/BufferVisualization/Specular.uasset" 34
+"../../../Engine/Content/BufferVisualization/SubsurfaceColor.uasset" 35
+"../../../Engine/Content/BufferVisualization/Velocity.uasset" 36
+"../../../Engine/Content/BufferVisualization/WorldNormal.uasset" 37
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 38
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 39
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmoHeight_Mat.uasset" 40
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat.uasset" 41
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat_Copied.uasset" 42
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uasset" 43
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uasset" 44
+"../../../Engine/Content/EditorMaterials/Cross.uasset" 45
+"../../../Engine/Content/EditorMaterials/Cross_Mat.uasset" 46
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 47
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 48
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 49
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 50
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 51
+"../../../Engine/Content/EditorResources/T_EditorHelp.uasset" 52
+"../../../Engine/Content/EditorMaterials/HelpActorMaterial.uasset" 53
+"../../../Engine/Content/EditorMaterials/CompositeARGBLayer.uasset" 54
+"../../../Engine/Content/EditorMaterials/TilingAALineIntegral.uasset" 55
+"../../../Engine/Content/EditorMaterials/TilingAALineBoxFiltered.uasset" 56
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 57
+"../../../Engine/Content/EditorMaterials/TilingAADots.uasset" 58
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 59
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 60
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 61
+"../../../Engine/Content/EditorMaterials/TilingAAGrid.uasset" 62
+"../../../Engine/Content/EditorMaterials/LevelGridMaterial.uasset" 63
+"../../../Engine/Content/EditorMaterials/MakeCompositeARGBLayer.uasset" 64
+"../../../Engine/Content/EditorResources/LevelGrid1DStripes.uasset" 65
+"../../../Engine/Content/EditorMaterials/TextureGridCascaded1D.uasset" 66
+"../../../Engine/Content/EditorMaterials/TextureGridCascaded2D.uasset" 67
+"../../../Engine/Content/EditorMaterials/LevelGridMaterial2.uasset" 68
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 69
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 70
+"../../../Engine/Content/EditorMaterials/PhAT_BoneSelectedMaterial.uasset" 71
+"../../../Engine/Content/EditorMaterials/PhAT_ElemSelectedMaterial.uasset" 72
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset" 73
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset" 74
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 75
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 76
+"../../../Engine/Content/EditorMaterials/TargetIcon.uasset" 77
+"../../../Engine/Content/EditorMaterials/Tick.uasset" 78
+"../../../Engine/Content/EditorMaterials/Tick_Mat.uasset" 79
+"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial.uasset" 80
+"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial_Ma.uasset" 81
+"../../../Engine/Content/EditorMaterials/WidgetMaterial.uasset" 82
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Current.uasset" 83
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_X.uasset" 84
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Y.uasset" 85
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Z.uasset" 86
+"../../../Engine/Content/EditorMaterials/WidgetVertexColorMaterial.uasset" 87
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 88
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 89
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 90
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 91
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 92
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 93
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 94
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 95
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 96
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 97
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 98
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 99
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 100
+"../../../Engine/Content/EngineMaterials/Grid.uasset" 101
+"../../../Engine/Content/EditorMaterials/Thumbnails/FloorPlaneMaterial.uasset" 102
+"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 103
+"../../../Engine/Content/EditorMeshes/EditorCylinder.uasset" 104
+"../../../Engine/Content/EditorMeshes/EditorPlane.uasset" 105
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 106
+"../../../Engine/Content/EditorMeshes/EditorSkySphere.uasset" 107
+"../../../Engine/Content/EditorMeshes/EditorSphere.uasset" 108
+"../../../Engine/Content/EditorResources/MatineeCam_D.uasset" 109
+"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uasset" 110
+"../../../Engine/Content/EditorMeshes/MatineeCam_SM.uasset" 111
+"../../../Engine/Content/EditorMeshes/PlanarReflectionPlane.uasset" 112
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 113
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CameraBody.uasset" 114
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleOpaque.uasset" 115
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CamViewFinder.uasset" 116
+"../../../Engine/Content/EditorMeshes/Camera/SM_CineCam.uasset" 117
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 118
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 119
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 120
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 121
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 122
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 123
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 124
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 125
+"../../../Engine/Content/EditorResources/Bad.uasset" 126
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 127
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 128
+"../../../Engine/Content/EditorResources/MatInstActSprite.uasset" 129
+"../../../Engine/Content/EditorResources/SceneManager.uasset" 130
+"../../../Engine/Content/EditorResources/SmallFont.uasset" 131
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 132
+"../../../Engine/Content/EditorResources/S_DecalActorIcon.uasset" 133
+"../../../Engine/Content/EditorResources/S_Emitter.uasset" 134
+"../../../Engine/Content/EditorResources/S_ExpoHeightFog.uasset" 135
+"../../../Engine/Content/EditorResources/S_FTest.uasset" 136
+"../../../Engine/Content/EditorResources/S_KBSJoint.uasset" 137
+"../../../Engine/Content/EditorResources/S_KHinge.uasset" 138
+"../../../Engine/Content/EditorResources/S_KPrismatic.uasset" 139
+"../../../Engine/Content/EditorResources/S_LevelSequence.uasset" 140
+"../../../Engine/Content/EditorResources/S_NavP.uasset" 141
+"../../../Engine/Content/EditorResources/S_Note.uasset" 142
+"../../../Engine/Content/EditorResources/S_Player.uasset" 143
+"../../../Engine/Content/EditorResources/S_PortalActorIcon2.uasset" 144
+"../../../Engine/Content/EditorResources/S_RadForce.uasset" 145
+"../../../Engine/Content/EditorResources/S_ReflActorIcon.uasset" 146
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 147
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 148
+"../../../Engine/Content/EditorResources/S_TextRenderActorIcon.uasset" 149
+"../../../Engine/Content/EditorResources/S_Thruster.uasset" 150
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 151
+"../../../Engine/Content/EditorResources/S_VectorFieldVol.uasset" 152
+"../../../Engine/Content/EditorResources/S_WindDirectional.uasset" 153
+"../../../Engine/Content/EditorResources/AI/S_NavLink.uasset" 154
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 155
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 156
+"../../../Engine/Content/EditorResources/LightIcons/SkyLight.uasset" 157
+"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectional.uasset" 158
+"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectionalMove.uasset" 159
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 160
+"../../../Engine/Content/EditorResources/LightIcons/S_LightPoint.uasset" 161
+"../../../Engine/Content/EditorResources/LightIcons/S_LightPointMove.uasset" 162
+"../../../Engine/Content/EditorResources/LightIcons/S_LightSpot.uasset" 163
+"../../../Engine/Content/EditorResources/LightIcons/S_LightSpotMove.uasset" 164
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 165
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 166
+"../../../Engine/Content/EditorResources/Spline/T_Loft_Spline.uasset" 167
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 168
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 169
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 170
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 171
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 172
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 173
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 174
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 175
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 176
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 177
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 178
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 179
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 180
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 181
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationLitMaterial.uasset" 182
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationUnlitMaterial.uasset" 183
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 184
+"../../../Engine/Content/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV.uasset" 185
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 186
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 187
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 188
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 189
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationLitMaterial.uasset" 190
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationUnlitMateri.uasset" 191
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 192
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_AlphaAsColor.uasset" 193
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_BlueOnly.uasset" 194
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_ColorOnly.uasset" 195
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset" 196
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset" 197
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 198
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 199
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 200
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 201
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 202
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 203
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 204
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 205
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 206
+"../../../Engine/Content/EngineFonts/SmallFont.uasset" 207
+"../../../Engine/Content/EngineFonts/TinyFont.uasset" 208
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 209
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 210
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 211
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 212
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 213
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 214
+"../../../Engine/Content/EngineMaterials/BlinkingCaret.uasset" 215
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 216
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 217
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 218
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 219
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 220
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 221
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 222
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 223
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 224
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 225
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 226
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 227
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 228
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 229
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 230
+"../../../Engine/Content/EngineMaterials/Grid_N.uasset" 231
+"../../../Engine/Content/EngineMaterials/HighResolutionScreenshotMaskFunction.uasset" 232
+"../../../Engine/Content/EngineMaterials/HighResScreenshot.uasset" 233
+"../../../Engine/Content/EngineMaterials/HighResScreenshotCaptureRegion.uasset" 234
+"../../../Engine/Content/EngineMaterials/HighResScreenshotMask.uasset" 235
+"../../../Engine/Content/EngineMaterials/LandscapeHolePhysicalMaterial.uasset" 236
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 237
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 238
+"../../../Engine/Content/EngineMaterials/PaperDiffuse.uasset" 239
+"../../../Engine/Content/EngineMaterials/PaperNormal.uasset" 240
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 241
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 242
+"../../../Engine/Content/EngineMaterials/PhysMat_Rubber.uasset" 243
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 244
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 245
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 246
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 247
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 248
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 249
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 250
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 251
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 252
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 253
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 254
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 255
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 256
+"../../../Engine/Content/EngineResources/Black.uasset" 257
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 258
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 259
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 260
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 261
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 262
+"../../../Engine/Content/EngineResources/StreamingPauseIcon.uasset" 263
+"../../../Engine/Content/EngineResources/M_StreamingPause.uasset" 264
+"../../../Engine/Content/EngineSounds/Master.uasset" 265
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 266
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 267
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 268
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 269
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 270
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 271
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 272
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 273
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 274
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 275
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 276
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 277
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 278
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 279
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 280
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 281
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 282
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 283
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 284
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 285
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 286
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 287
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 288
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 289
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 290
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 291
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 292
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 293
+"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 294
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 295
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 296
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 297
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 298
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 299
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 300
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 301
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 302
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 303
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 304
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 305
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 306
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/HandheldARBP/Blueprints/Placeable/T_ContactShadow.uasset" 307
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/HandheldARBP/Blueprints/Placeable/M_ContactShadow.uasset" 308
+"../../../Engine/Content/BasicShapes/Cone.uasset" 309
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 310
+"../../../Engine/Content/BasicShapes/Plane.uasset" 311
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 312
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/HandheldARBP/Blueprints/Placeable/BP_Placeable.uasset" 313
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/HandheldARBP/D_ARSessionConfig.uasset" 314
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/HandheldARBP/Blueprints/UI/BP_DebugMenu.uasset" 315
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/HandheldARBP/Blueprints/UI/BP_MainMenu.uasset" 316
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/HandheldARBP/Blueprints/GameFramework/BP_ARPawn.uasset" 317
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/HandheldARBP/Blueprints/GameFramework/BP_ARPlayerController.uasset" 318
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/HandheldARBP/Blueprints/GameFramework/BP_ARGameMode.uasset" 319
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/UI/MainMenu.uasset" 320
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/UI/Options.uasset" 321
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 322
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 323
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 324
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 325
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 326
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 327
+"../../Plugins/Runtime/AR/Apple/AppleARKit/Content/M_CameraOverlay.uasset" 328
+"../../../Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset" 329
+"../../Plugins/Runtime/AR/Google/GoogleARCore/Content/GoogleARCorePassthroughCameraMaterial.uasset" 330
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 331
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 332
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 333
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 334
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 335
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 336
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 337
+"../../../Engine/Content/Maps/Entry.umap" 338
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 339
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/HandheldARBP/Maps/HandheldARBlankMap.umap" 340
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Audio/Fire01.uasset" 341
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Audio/Fire01_Cue.uasset" 342
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Fire_SubUV.uasset" 343
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Fire_Tiled_D.uasset" 344
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Particles/Materials/M_Fire_SubUV.uasset" 345
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 346
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Particles/Materials/M_Radial_Gradient.uasset" 347
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Smoke_SubUV.uasset" 348
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Smoke_Tiled_D.uasset" 349
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Particles/Materials/M_smoke_subUV.uasset" 350
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Particles/P_Fire.uasset" 351
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 352
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Audio/Smoke01.uasset" 353
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Audio/Smoke01_Cue.uasset" 354
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Particles/P_Smoke.uasset" 355
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 356
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Audio/Fire_Sparks01.uasset" 357
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Audio/Fire_Sparks01_Cue.uasset" 358
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Spark_Core.uasset" 359
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Particles/Materials/M_Spark.uasset" 360
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Particles/P_Sparks.uasset" 361
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 362
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 363
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 364
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 365
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 366
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 367
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 368
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 369
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 370
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 371
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Lamp_M.uasset" 372
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Lamp_N.uasset" 373
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Props/Materials/M_Lamp.uasset" 374
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Props/SM_Lamp_Ceiling.uasset" 375
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Blueprints/Blueprint_CeilingLight.uasset" 376
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Props/SM_Lamp_Wall.uasset" 377
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Blueprints/Blueprint_WallSconce.uasset" 378
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Maps/StarterMap_BuiltData.uasset" 379
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 380
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 381
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 382
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Brick_Clay_Beveled.uasset" 383
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Brick_Clay_New_D.uasset" 384
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Brick_Clay_New_M.uasset" 385
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Brick_Clay_New_N.uasset" 386
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Brick_Clay_New.uasset" 387
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Brick_Clay_Old_D.uasset" 388
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Brick_Clay_Old_N.uasset" 389
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Brick_Clay_Old.uasset" 390
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 391
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 392
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Brick_Cut_Stone.uasset" 393
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 394
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 395
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 396
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Brick_Hewn_Stone.uasset" 397
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Ceramic_Tile_M.uasset" 398
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Ceramic_Tile_N.uasset" 399
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 400
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 401
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 402
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 403
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_CobbleStone_Pebble.uasset" 404
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_CobbleStone_Rough_D.uasset" 405
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_CobbleStone_Rough_N.uasset" 406
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_CobbleStone_Rough.uasset" 407
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 408
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 409
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 410
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_CobbleStone_Smooth.uasset" 411
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Concrete_Grime_D.uasset" 412
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Metal_Rust_N.uasset" 413
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Concrete_Grime.uasset" 414
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Concrete_Panels_D.uasset" 415
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Concrete_Panels_N.uasset" 416
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Concrete_Panels.uasset" 417
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Concrete_Poured_D.uasset" 418
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Concrete_Poured_N.uasset" 419
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Concrete_Poured.uasset" 420
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Concrete_Tiles_D.uasset" 421
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Concrete_Tiles_M.uasset" 422
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Concrete_Tiles_N.uasset" 423
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Concrete_Tiles.uasset" 424
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Ground_Grass_D.uasset" 425
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Ground_Grass_N.uasset" 426
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Ground_Grass.uasset" 427
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Ground_Gravel_D.uasset" 428
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Ground_Gravel_N.uasset" 429
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Ground_Gravel.uasset" 430
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_ground_Moss_D.uasset" 431
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Ground_Moss_N.uasset" 432
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Ground_Moss.uasset" 433
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_MacroVariation.uasset" 434
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 435
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Metal_Aluminum_D.uasset" 436
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Metal_Gold_N.uasset" 437
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Metal_Burnished_Steel.uasset" 438
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Metal_Chrome.uasset" 439
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Metal_Copper_D.uasset" 440
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Metal_Copper.uasset" 441
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Metal_Gold_D.uasset" 442
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Metal_Gold.uasset" 443
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Metal_Rust_D.uasset" 444
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Metal_Rust.uasset" 445
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Metal_Steel_D.uasset" 446
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Metal_Steel_N.uasset" 447
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Metal_Steel.uasset" 448
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Rock_Basalt_D.uasset" 449
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Rock_Basalt_N.uasset" 450
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Rock_Basalt.uasset" 451
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Rock_Marble_Polished.uasset" 452
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Rock_Sandstone_D.uasset" 453
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Rock_Sandstone_N.uasset" 454
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Rock_Sandstone.uasset" 455
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Rock_Slate_D.uasset" 456
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Rock_Slate_N.uasset" 457
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Rock_Slate.uasset" 458
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Checker_Noise_M.uasset" 459
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Single_Tile_N.uasset" 460
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Tech_Dot_M.uasset" 461
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Tech_Dot_N.uasset" 462
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Tech_Checker_Dot.uasset" 463
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 464
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 465
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile.uasset" 466
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 467
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Tech_Panel_M.uasset" 468
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Tech_Panel_N.uasset" 469
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Tech_Panel.uasset" 470
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Water_N.uasset" 471
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Water_Lake.uasset" 472
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 473
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Water_M.uasset" 474
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Water_Ocean.uasset" 475
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 476
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 477
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 478
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 479
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 480
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Wood_Oak_D.uasset" 481
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Wood_Oak_N.uasset" 482
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Wood_Oak.uasset" 483
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Wood_Pine_D.uasset" 484
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Wood_Pine_N.uasset" 485
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Wood_Pine.uasset" 486
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Wood_Walnut_D.uasset" 487
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Wood_Walnut_N.uasset" 488
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Wood_Walnut.uasset" 489
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Chair_M.uasset" 490
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Chair_N.uasset" 491
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Props/Materials/M_Chair.uasset" 492
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Basic_Floor.uasset" 493
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Architecture/Floor_400x400.uasset" 494
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Basic_Wall.uasset" 495
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Architecture/Wall_400x200.uasset" 496
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Architecture/Wall_Door_400x300.uasset" 497
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Architecture/Wall_Window_400x300.uasset" 498
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Audio/Collapse01.uasset" 499
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Audio/Collapse02.uasset" 500
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Audio/Collapse_Cue.uasset" 501
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Audio/Starter_Birds01.uasset" 502
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Audio/Starter_Wind05.uasset" 503
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Audio/Starter_Wind06.uasset" 504
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Audio/Starter_Background_Cue.uasset" 505
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Audio/Starter_Music01.uasset" 506
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Audio/Starter_Music_Cue.uasset" 507
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Dust_Particle_D.uasset" 508
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Particles/Materials/M_Dust_Particle.uasset" 509
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Particles/P_Ambient_Dust.uasset" 510
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Props/MaterialSphere.uasset" 511
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Props/SM_Chair.uasset" 512
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Frame_M.uasset" 513
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Frame_N.uasset" 514
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Props/Materials/M_Frame.uasset" 515
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Props/SM_CornerFrame.uasset" 516
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Props/SM_DoorFrame.uasset" 517
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Materials/M_Glass.uasset" 518
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Props/SM_GlassWindow.uasset" 519
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Props/SM_PillarFrame.uasset" 520
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Props/SM_PillarFrame300.uasset" 521
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Statue_M.uasset" 522
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_Statue_N.uasset" 523
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Props/Materials/M_Statue.uasset" 524
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Props/Materials/M_StatueGlass.uasset" 525
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Props/SM_Statue.uasset" 526
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_TableRound_M.uasset" 527
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Textures/T_TableRound_N.uasset" 528
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Props/Materials/M_TableRound.uasset" 529
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Props/SM_TableRound.uasset" 530
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Props/SM_WindowFrame.uasset" 531
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Shapes/Shape_Cube.uasset" 532
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Shapes/Shape_QuadPyramid.uasset" 533
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Shapes/Shape_Sphere.uasset" 534
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/MobileStarterContent/Maps/StarterMap.umap" 535
+"../../../../../../Users/Dan/Documents/Unreal Projects/CSC567Final/Content/Levels/StarterMap.umap" 536
