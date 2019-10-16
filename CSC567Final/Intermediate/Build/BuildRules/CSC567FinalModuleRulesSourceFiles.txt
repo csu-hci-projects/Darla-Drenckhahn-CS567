@@ -1,2 +1,0 @@
-C:\Users\Dan\Documents\Unreal Projects\CSC567Final\Intermediate\Source\CSC567Final.Build.cs
-C:\Users\Dan\Documents\Unreal Projects\CSC567Final\Intermediate\Source\CSC567Final.Target.cs

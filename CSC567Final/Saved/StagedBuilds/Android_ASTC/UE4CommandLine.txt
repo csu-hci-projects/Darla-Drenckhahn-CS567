@@ -1,1 +1,0 @@
-../../../CSC567Final/CSC567Final.uproject  /Game/Levels/StarterMap -Messaging -SessionId=629FA68A46C7C52D1E74AF8AC37CD763 -SessionOwner="Dan" -SessionName="Launch On Device" -iterative
