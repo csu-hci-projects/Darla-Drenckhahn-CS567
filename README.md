@@ -16,4 +16,4 @@ Links to youtube checkpoint videos (in most recent order):
 - Checkpoint 1: https://youtu.be/YZZ43Sp3T58
 
 Link to Latex File:
-- 
+- nn
