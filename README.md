@@ -6,8 +6,10 @@ Darla Drenckhahn
 
 Project Overview: Augmented Reality Learning Tool Application
 
+**Research Question** How does using Augmented Reality as a learning tool affect student's outlook on learning?
+
 Links to youtube checkpoint videos (in most recent order):
-- Checkpoint 2:
+- Checkpoint 2: https://youtu.be/n3gYcjdvfXU
 - Checkpoint 1: https://youtu.be/YZZ43Sp3T58
 
 Link to Latex File:
