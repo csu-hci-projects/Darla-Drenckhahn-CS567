@@ -11,6 +11,9 @@ public class ArScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        // Set orientation to portrait
+        Screen.orientation = ScreenOrientation.Portrait;
+
         // get game objects
         back_btn = GameObject.Find("back_btn").GetComponent<Button>();
 

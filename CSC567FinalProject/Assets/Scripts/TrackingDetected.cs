@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using Vuforia;
+using UnityEngine.SceneManagement;
 
 public class TrackingDetected : MonoBehaviour, ITrackableEventHandler
 {
@@ -91,7 +92,28 @@ public class TrackingDetected : MonoBehaviour, ITrackableEventHandler
             foreach (var component in canvasComponents)
                 component.enabled = true;*/
 
-            Application.OpenURL("http://unity3d.com/");
+            if(mTrackableBehaviour.TrackableName == "binaryArticle")
+            {
+                Application.OpenURL("https://www.geeksforgeeks.org/binary-search-tree-data-structure/");
+            }
+            else if(mTrackableBehaviour.TrackableName == "binaryVideo")
+            {
+                Application.OpenURL("https://www.youtube.com/watch?v=gm8DUJJhmY4");
+            }
+            else if (mTrackableBehaviour.TrackableName == "fullTree")
+            {
+                SceneManager.LoadScene("FullTreeStructure", LoadSceneMode.Single);
+            }
+            else if (mTrackableBehaviour.TrackableName == "AddNode")
+            {
+                SceneManager.LoadScene("AddNode", LoadSceneMode.Single);
+            }
+            else if (mTrackableBehaviour.TrackableName == "RemoveNode")
+            {
+                SceneManager.LoadScene("RemoveNode", LoadSceneMode.Single);
+            }
+
+
         }
     }
 

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="QRCode3" size="0.100000 0.100000" />
-    <ImageTarget name="tree_marker" size="0.100000 0.054503" />
-    <ImageTarget name="QRCode2" size="0.100000 0.100000" />
-    <ImageTarget name="QRCode" size="0.100000 0.100000" />
-    <ImageTarget name="2019bmwi8-roadster-01" size="0.100000 0.066588" />
+    <ImageTarget name="binaryArticle" size="0.100000 0.100000" />
+    <ImageTarget name="binaryVideo" size="0.100000 0.100000" />
+    <ImageTarget name="fullTree" size="0.100000 0.054503" />
+    <ImageTarget name="AddNode" size="0.100000 0.100000" />
+    <ImageTarget name="RemoveNode" size="0.100000 0.100000" />
   </Tracking>
 </QCARConfig>
