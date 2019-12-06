@@ -9,6 +9,7 @@ Project Overview: Augmented Reality Learning Tool Application
 **Research Question** How does using Augmented Reality as a learning tool affect student's outlook on learning?
 
 Links to youtube checkpoint videos (in most recent order):
+- Checkpoint 5: https://youtu.be/2FoE9TIsyII
 - Checkpoint 4: https://youtu.be/ehvFM0YYVWo
 - Checkpoint 3: https://youtu.be/mAnijmOi_Dg
 - Checkpoint 2: https://youtu.be/n3gYcjdvfXU
